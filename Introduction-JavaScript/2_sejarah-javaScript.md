@@ -4,7 +4,7 @@ Sejarah JavaScript adalah kisah yang menarik tentang bagaimana bahasa pemrograma
 
 1. **Awal Mula (1990-1995):**
 
-   - JavaScript pertama kali dikembangkan oleh Brendan Eich di Netscape Communications Corporation pada tahun 1995.
+   - JavaScript pertama kali dikembangkan oleh _Brendan Eich_ di Netscape Communications Corporation pada tahun 1995.
    - Bahasa ini awalnya disebut "Mocha" kemudian "LiveScript" sebelum akhirnya dikenal sebagai "JavaScript."
 
 2. **Kerjasama dengan Sun Microsystems (1995):**
